@@ -1,0 +1,13 @@
+steps to run the project.
+
+1 - start kafka by running the shell script "run-kafka.sh"
+
+2 - create kafka topic by running the shell script "create-kafka-topic.sh"
+
+3 - restart the hbase by running the shell script "restart-hbase.sh"
+
+4 - start producer by running the java class "Producer.java"
+
+5 - start consumer by running java class "Listner.java"
+
+6 - start spark sql by running jav class "SparkSql.java"
